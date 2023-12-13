@@ -70,13 +70,13 @@ def  artificial_bee_colony_algorithm(objective_function, num_variables_vector, n
     return best_solution, best_fitness         
 
 #Parâmetros
-num_variables = 10
+num_variables_vector = 10
 num_employed_bees = 20
 num_onlooker_bees = 20
 max_iterations = 100
 
 #Roda o algorítimo
-best_solution, best_fitness = artificial_bee_colony_algorithm(objective_function, num_variables, num_employed_bees, num_onlooker_bees, max_iterations)
+best_solution, best_fitness = artificial_bee_colony_algorithm(objective_function, num_variables_vector, num_employed_bees, num_onlooker_bees, max_iterations)
 
 #Printa "best_solution" e "best_fitness"
 print("Best Solution(vetor_solução):", best_solution)
