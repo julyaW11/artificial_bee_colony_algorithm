@@ -1,2 +1,2 @@
 # artificial_bee_colony_algorithm
-Inteligência Artificial(IA) de otimização matemática. Versão básica. 
+O "Artificial Bee Colony Algorithm (Algoritmo de Colônia Artificial de Abelhas (ABC) )" é um I.A(inteligência artificial) de otimização matemática inspirado no comportamento das abelhas em busca de alimentos.. Versão básica. 
